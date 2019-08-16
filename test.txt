@@ -1,0 +1,2 @@
+This is a new txt file.
+I add this as second commit in the branch "readme-edits"

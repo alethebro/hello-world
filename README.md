@@ -1,2 +1,4 @@
 # hello-world
-refresh of the hello-world sample
+refresh of the Hello-World sample
+
+test first commit
